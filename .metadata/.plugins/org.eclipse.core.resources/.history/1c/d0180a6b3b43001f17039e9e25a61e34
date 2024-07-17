@@ -1,0 +1,15 @@
+package Chapter3;
+
+import java.util.List;
+
+public class package2 {
+
+	public static void main(String[] args) {
+	
+		// Collection Framework : Java에서 데이터 구조에 대한 표준화된 기법을 제공
+		
+		// List : 데이터를 저장할 때 중복을 허용하고 순서가 존재하는 데이터 구조
+		List<Integer> list;
+	}
+
+}

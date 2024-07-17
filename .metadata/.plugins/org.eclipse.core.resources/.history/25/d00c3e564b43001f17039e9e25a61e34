@@ -1,0 +1,10 @@
+package Chapter3;
+
+public class Package3 {
+	
+	public static void main(String[] args) {
+		
+		// Random 클래서 : 난수를 생성하는 클래스
+	}
+
+}
